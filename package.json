@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/HARSH-164/my-project/issues"
   },
-  "homepage": "https://github.com/HARSH-164/my-project#readme"
+  "homepage": "https://github.com/HARSH-164/my-project#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
