@@ -10,8 +10,8 @@ const PORT = process.env.PORT || 3000;
 
 // Replace with your details
 const USER_ID = "harsh_01012000";
-const EMAIL = "your_email@srmist.edu";
-const ROLL = "YOUR_ROLL_NUMBER";
+const EMAIL = "hc5942@srmist.edu";
+const ROLL = "RA2311003011215";
 
 app.post("/bfhl", (req, res) => {
     try {
