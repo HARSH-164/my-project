@@ -1,1 +1,5 @@
-console.log("Setup is clean and working");
+function main() {
+    console.log("Project setup successful. Environment is working.");
+}
+
+main();
