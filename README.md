@@ -1,27 +1,15 @@
-\# My Project
+My Project
 
-
-
-\## Overview
-
+Overview:
 A basic Node.js project setup with Git version control.
 
-
-
-\## Tech Stack
-
+Tech Stack:
 \- Node.js
-
 \- Git
 
-
-
-\## Setup Instructions
-
-1\. Clone the repo
-
+Setup Instructions:
+Clone the repo
 2\. Run `npm install`
-
 3\. Run `node index.js`
 
 
