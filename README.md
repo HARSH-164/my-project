@@ -15,6 +15,6 @@ Setup Instructions:
 
 3\. Run `node index.js`
 
-Author
+Author:
 Harsh
 
