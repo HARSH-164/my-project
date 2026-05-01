@@ -8,8 +8,11 @@ Tech Stack:
 \- Git
 
 Setup Instructions:
-Clone the repo
+
+1\.Clone the repo
+
 2\. Run `npm install`
+
 3\. Run `node index.js`
 
 Author
